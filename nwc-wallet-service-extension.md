@@ -4,7 +4,7 @@
 
 This project aims to build a Nostr Wallet Connect (NWC) extension for LNbits to allow LNbits to act as a NWC Wallet Service as defined in NIP-47 https://github.com/nostr-protocol/nips/blob/master/47.md
 
-LNbits has an [example extension](https://github.com/lnbits/example) that can be used as a starting point on your extension development journey.
+LNbits has an [example extension]([https://github.com/lnbits/example](https://github.com/lnbits/myextension) that can be used as a starting point on your extension development journey. [Watch the extension build tutorial video here](https://www.youtube.com/watch?v=zHXLvvjClHI&t=181s)
 
 #### **Objective**
 
