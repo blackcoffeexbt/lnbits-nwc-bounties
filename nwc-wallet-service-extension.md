@@ -39,9 +39,7 @@ To develop a fully functional NWC Wallet Service extension that adheres to the N
 #### **Budget**
 
 - **Total Bounty**: XXXXXX sats
-- Payments will be released in phases:
-    - 30% after approval of the prototype.
-    - 70% upon final delivery, after successful testing and documentation review.
+- Payment will be made upon final delivery, after successful testing and documentation review.
 
 #### **Evaluation Criteria**
 
